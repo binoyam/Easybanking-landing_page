@@ -6,3 +6,6 @@
 
 #### Challenge Description
 * Build out the landing page and get it looking as close to the design as possible.
+Used HTML,CSS and javascript
+Responsive and interactive
+Deployed on netflify [view Deployment](https://incredible-torrone-8588bc.netlify.app/)
